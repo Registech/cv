@@ -1,5 +1,5 @@
-.body{
-	background-color: #CCCCCC;
+body{
+	background-color: white;
 }
 
 .page{
@@ -8,10 +8,10 @@
 	font-size: 16px;
 	font-family: "Source sans Pro" , Calibri, Tchoma, sans-serif;
 	padding: 40px;
-	border: 5px solid #3388CC;
+	border: 5px solid #8B4513;
 	border-radius: 10px;
 	box-shadow: 2px 4px 3px black;
-	background-color: #FFFFFF;
+	background: url(paille.jpg);
 }
 
 .infophoto{
@@ -81,5 +81,5 @@ m
 }
 
 .section:hover{
-	color: #00AA00;
+	color: #800080;
 }
