@@ -1,8 +1,17 @@
+.body{
+	background-color: #CCCCCC;
+}
+
 .page{
 	width: 780px;
 	margin: auto;
 	font-size: 16px;
 	font-family: "Source sans Pro" , Calibri, Tchoma, sans-serif;
+	padding: 40px;
+	border: 5px solid #3388CC;
+	border-radius: 10px;
+	box-shadow: 2px 4px 3px black;
+	background-color: #FFFFFF;
 }
 
 .infophoto{
@@ -69,4 +78,8 @@ m
 .sec-droite{
 	margin-left: 150px;
     margin-top: 37px;
+}
+
+.section:hover{
+	color: #00AA00;
 }
